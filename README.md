@@ -1,0 +1,2 @@
+# Extended-Essay
+Code for IB Extended Essay in Mathematics, where I made a bot to play the game 2048. The bot calculates optimal moves by calculating future probabilities. The "2x2" code was for proof of concept on a smaller version of the game. "4x4" uses recursion and bellman equations to search depth of 4-5. "monte carlo" uses the Monte Carlo method to get larger search depth by sacraficing precision in the process.
